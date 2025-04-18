@@ -44,4 +44,5 @@ Follow the notebooks step-by-step to replicate the analysis or to apply the meth
 ## Contact
 For any questions or further information, please contact:
 
-Email: kryala@iu.edu
+Email: suhruthkrishna@gmail.com
+
